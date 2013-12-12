@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-0": {
+            "Hawk\\Svg": "Sources/",
+            "Hawk\\Xml": "Sources/"
+        }
+    },
+    "minimum-stability": "dev"
+}

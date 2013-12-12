@@ -1,0 +1,36 @@
+.graph-rect {
+    fill: cyan;
+}
+
+.graph-circle {
+    fill: cyan;
+    stroke: red;
+    stroke-width: 2px;
+}
+
+.graph-line {
+    stroke: red;
+    stroke-width: 5px;
+}
+
+.graph-polyline {
+    fill: none;
+    stroke: blue;
+    stroke-width: 10px;
+}
+.graph-text {
+    font-family: Verdana;
+    font-size: 55;
+    fill: blue;
+}
+.graph-path {
+    fill:none; stroke:red; stroke-width:5
+
+}
+.Border { fill:none; stroke:blue; stroke-width:1 }
+.Connect { fill:none; stroke:#888888; stroke-width:2 }
+.SamplePath { fill:none; stroke:red; stroke-width:5 }
+.EndPoint { fill:none; stroke:#888888; stroke-width:2 }
+.CtlPoint { fill:#888888; stroke:none }
+.AutoCtlPoint { fill:none; stroke:blue; stroke-width:4 }
+.Label { font-size:22; font-family:Verdana }
